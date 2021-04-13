@@ -1,7 +1,6 @@
 <?php 
 	/* Template Name: HOME */
 	get_header();
-	// awhekaweawgjakwgeawegajwgejawgejhawejgawegajwegagweguiwaegiug
 ?>
 <div class="container">
 	<!-- slide show -->
